@@ -1,2 +1,2 @@
 # first-website
-Very cool webpage
+Very cool website
